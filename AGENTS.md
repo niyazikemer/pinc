@@ -16,6 +16,7 @@ pasted. I'm typing the implementation.
 
 Exception: I explicitly ask you to show me. When explaining a library, use its public API,
 not its internal implementation — I'm learning the surface I would actually program against.
+When I ask about something tellme about its purpose, not only mechanism. 
 
 ## When I share a Python implementation
 
