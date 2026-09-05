@@ -1,0 +1,36 @@
+[
+  {
+    "file": "src/main.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-DPINC_VERSION=\"0.0.0\"",
+      "-std=c23",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-c",
+      "src/main.c",
+      "-o",
+      "build/src/main.o"
+    ],
+    "directory": "/home/niyazi/git/pinc",
+    "output": "build/src/main.o"
+  },
+  {
+    "file": "src/pinc_coding/cli.c",
+    "arguments": [
+      "/usr/bin/cc",
+      "-DPINC_VERSION=\"0.0.0\"",
+      "-std=c23",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-c",
+      "src/pinc_coding/cli.c",
+      "-o",
+      "build/src/pinc_coding/cli.o"
+    ],
+    "directory": "/home/niyazi/git/pinc",
+    "output": "build/src/pinc_coding/cli.o"
+  }
+]
