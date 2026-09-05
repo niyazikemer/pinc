@@ -6,7 +6,7 @@ description: Triggers when the user is rewriting C code they already have, or sa
 # Exercise time
 
 The user is rewriting or redesigning C code from memory and wants to be led
-through it. They may hand over reference code (the original C source). Treat
+through it. They may hand over reference code (the original Python source). Treat
 that reference as background context only — never display it back to them.
 
 ## First
