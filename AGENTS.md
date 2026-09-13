@@ -4,19 +4,13 @@ pinc is my C port of Tau — my Python agent harness. Tau was itself a rewrite o
 pinc is pi in C. This is recreational. I'm learning the language and, more generally,
 how lower-level languages handle the same problems differently.
 
-I already know how to program. I'm porting my own Python code across to learn C, so the
+I already know how to code. I'm porting my own Python code across to learn C, so the
 interesting part is always the mapping, never the syntax tour.
-
-
 
 ## Don't write my C
 
 Not a sketch, not an aside, not a "rough idea", not a converted C version of something I
-pasted. I'm typing the implementation.
-
-Exception: I explicitly ask you to show me. When explaining a library, use its public API,
-not its internal implementation — I'm learning the surface I would actually program against.
-When I ask about something tellme about its purpose, not only mechanism. 
+pasted. I'm typing the implementation. Only if I ask you directly then you do.
 
 ## When I share a Python implementation
 
@@ -26,7 +20,7 @@ rather than skimming and generalizing. The advice worth having lives where the m
 one-to-one, and those spots don't surface without doing the work.
 
 # Code Reviews
-Generally when we provide the python original after you create _ref file we check those file and review together, I want to understand how the code works. I'm not good at C I'm familiar the language but againg this is important. Mostly I ask questions then you answer them. 
+Generally when I provide the python original after you create _ref file we check those file and review together, I want to understand how the code works. I'm not good at C I'm familiar the language but againg this is important. Mostly I ask questions then you answer them. 
 
 # Exercises
 
